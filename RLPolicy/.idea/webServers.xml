@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5a5d960b-2250-4fd2-9b73-d5636380a7c3" name="ML003">
+        <fileTransfer rootFolder="/home/v-ziyu" accessType="SFTP" host="52.247.215.15" port="1021" sshConfigId="a5a91c1f-164d-4aab-8938-f08591cecbe3" sshConfig="ML003">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9772838c-446f-4036-bb2c-9f55bdf3407a" name="ML001">
+        <fileTransfer rootFolder="/home/v-ziyu" accessType="SFTP" host="52.158.250.44" port="1111" sshConfigId="7cd43070-f049-430c-ab62-888c775aae1a" sshConfig="ML001">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="587dcde6-3f9a-4657-afac-63b37286223d" name="ML002">
+        <fileTransfer rootFolder="/home/v-ziyu" accessType="SFTP" host="52.247.236.134" port="1111" sshConfigId="52bbb4ac-bd0c-4c1d-9811-a766acf45627" sshConfig="ML002">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="060b4d08-dfe3-4d0c-b575-b256b6673fdd" name="ML006">
+        <fileTransfer rootFolder="/home/v-ziyu" accessType="SFTP" host="52.250.63.182" port="1111" sshConfigId="70abe1d1-5f41-4a3f-89c0-89d820f13e3c" sshConfig="ML006">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6b532de8-8a44-4c80-84ba-ee94889b46eb" name="ML012">
+        <fileTransfer rootFolder="/home/v-ziyu" accessType="SFTP" host="20.36.26.43" port="1111" sshConfigId="af193312-2ba5-4b28-b72f-00c1e621eec0" sshConfig="ML012">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

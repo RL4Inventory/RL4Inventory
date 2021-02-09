@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="52.247.215.15" id="a5a91c1f-164d-4aab-8938-f08591cecbe3" port="1021" customName="ML003" nameFormat="CUSTOM" username="v-ziyu" />
+      <sshConfig authType="PASSWORD" host="52.158.250.44" id="7cd43070-f049-430c-ab62-888c775aae1a" port="1111" customName="ML001" nameFormat="CUSTOM" username="v-ziyu" />
+      <sshConfig authType="PASSWORD" host="52.247.236.134" id="52bbb4ac-bd0c-4c1d-9811-a766acf45627" port="1111" customName="ML002" nameFormat="CUSTOM" username="v-ziyu" />
+      <sshConfig authType="PASSWORD" host="52.250.63.182" id="70abe1d1-5f41-4a3f-89c0-89d820f13e3c" port="1111" customName="ML006" nameFormat="CUSTOM" username="v-ziyu" />
+      <sshConfig authType="PASSWORD" host="20.36.26.43" id="af193312-2ba5-4b28-b72f-00c1e621eec0" port="1111" customName="ML012" nameFormat="CUSTOM" username="v-ziyu" />
+    </configs>
+  </component>
+</project>

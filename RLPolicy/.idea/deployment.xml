@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="On explicit save action" serverName="ML002" autoUploadExternalChanges="true" showAutoUploadSettingsWarning="false">
+    <serverData>
+      <paths name="ML001">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/replenishment_project/replenishment_macos_dqn" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ML002">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/rl-inventory1109/replenishment_macos_dqn" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ML003">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/RLproject1103/replenishment_macos_dqn" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ML006">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/rl-inventory/replenishment_macos_dqn" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ML012">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/rl-inventory/replenishment_macos_dqn" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ON_EXPLICIT_SAVE" />
+  </component>
+</project>
